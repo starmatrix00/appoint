@@ -10,7 +10,7 @@
         <log type="testdox-txt" target="public/build/phpdox/testdox.txt"/>
     </logging>
     <testsuites>
-        <testsuite name="Integration">
+        <testsuite name="unit">
             <directory>./tests</directory>             
 	</testsuite>
     </testsuites>    
