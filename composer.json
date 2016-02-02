@@ -1,0 +1,11 @@
+{
+    "name": "imarie/appoint",
+    "description": "Testing",
+    "authors": [
+        {
+            "name": "Imarie Ignalig",
+            "email": "penggididoo27@gmail.com"
+        }
+    ],
+    "require": {}
+}
